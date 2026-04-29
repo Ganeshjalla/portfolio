@@ -552,8 +552,14 @@ export default function Portfolio() {
               <div className="contact-links">
                 <a href="mailto:ganeshjalla05@gmail.com" className="c-link"><div className="c-icon">✉</div>ganeshjalla05@gmail.com</a>
                 <a href="tel:+919346524781" className="c-link"><div className="c-icon">📞</div>+91 93465 24781</a>
-                <a href="#" className="c-link"><div className="c-icon">💼</div>LinkedIn Profile</a>
-                <a href="#" className="c-link"><div className="c-icon">🐙</div>GitHub Profile</a>
+                <a href="www.linkedin.com/in/
+ganesh-jalla-bbbb07330
+" className="c-link" target="_blank" rel="noreferrer">
+  LinkedIn Profile
+</a>
+                <a href="https://github.com/ganeshjalla" className="c-link" target="_blank" rel="noreferrer">
+  GitHub Profile
+</a>
               </div>
             </div>
           </Reveal>
